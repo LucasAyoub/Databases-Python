@@ -1,7 +1,7 @@
 # SQL
 
-## Objetivo: Treinar SQL utilizando Python com SQLite e MongoDB
+## Purpose: Train SQL using Python with SQLite and MongoDB
 
-* SQL_Relacional = Criando tabelas e armazenando informações na mesma através do SQLite
-* NoSQL = Criando tabelas e armazenando informações na mesma através do MongoDB
-* SQL_PANDAS = Criando uma tabela e fazendo a organização e mostragem dos dados pelo PANDAS
+* SQL_Relacional = Creating tables and storing information in them through SQLite
+* NoSQL = Creating tables and storing information in them using MongoDB
+* SQL_PANDAS = Creating a table and organizing and displaying the data by PANDAS
